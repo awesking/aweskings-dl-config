@@ -1,3 +1,4 @@
+// MY CUSTOM CONFIG - DO NOT REPLACE
 // twitch.tv/kaizuchaneru  
 // ko-fi.com/kaizuchaneru                                   
 //                                                    ++:     .:=**:                                  
