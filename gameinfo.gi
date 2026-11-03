@@ -1,6 +1,10 @@
+// Based on OptimizationLock by Sqooky (and Kaizuchaneru's Minimum Spec config)
+// https://github.com/Sqooky/OptimizationLock
+// Modified by awesking ; personal FPS tweaks
+// Licensed under GPLv3. See LICENSE.
 // MY CUSTOM CONFIG - DO NOT REPLACE
-// twitch.tv/kaizuchaneru  
-// ko-fi.com/kaizuchaneru                                   
+// Line ^ meant for auto updater.
+//
 //                                                    ++:     .:=**:                                  
 //                              .                    ++    :===-::-:          .:                      
 //                           .:*+==-.               .#   .+=:              :==-#=-                    
