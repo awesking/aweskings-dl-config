@@ -937,7 +937,7 @@ citadel_trooper_glow_disabled false // Disable enemy trooper glow (release, defa
 //citadel_in_world_item_panel_dpi 0.5 // In-world item panel texture scale (default 2) - 4x less VRAM
 citadel_hud_objective_health_idle_timeout 0 // Hide objective health HUD immediately (default 7)
 citadel_damage_offscreen_indicator_disabled 1 // (default true — reinforces) disable to see minion hp thru wall
-mat_set_shader_quality 0 // Force shader quality low (devonly). ⚠ May force shader recompiles; test first
+//mat_set_shader_quality 0 // Force shader quality low (devonly). ⚠ May force shader recompiles; test first
 panorama_allow_transitions 0
 r_citadel_npr_force_solid_outline 1
 
