@@ -639,7 +639,7 @@
 //I spent too much time since early 2025 to give you the best possible fps without killing visual completely. if you want the lowest possible graphic, use EXTREME_LOW 
  
 //Stuff that matters to preference:
-r_aspectratio 2.3 // FOV: 1.33=70fov | 1.56=75fov | 1.75=80fov | 2.0=85fov | 2.15=90fov | 2.49=100fov | 3.0=110fov | 3.5=120fov
+r_aspectratio 2.6 // FOV: 1.33=70fov | 1.56=75fov | 1.75=80fov | 2.0=85fov | 2.15=90fov | 2.49=100fov | 3.0=110fov | 3.5=120fov
 
 //Damage number disappearing too fast, comment these out
 citadel_damage_text_lifetime 0.01 // Damage numbers vanish instantly (default 1.5)
