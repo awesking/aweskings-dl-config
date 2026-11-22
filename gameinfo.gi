@@ -651,7 +651,7 @@ r_size_cull_threshold 1.7 // remove obj/boxes/candles on the ground/trooper hp/e
 r_size_cull_threshold_shadow 1.0 // More aggressive shadow cull (default 0.2)
 r_farz 5500 // Far clipping plane override (default -1 = map-controlled, then this). Lower = more FPS + more popping. Vindicta players: try 5000-7000
 r_mapextents 5500 // Max map dimension for far clip (default 16384). Lower = sooner far-clip + popping. Raise if buildings pop
-sc_screen_size_lod_scale_override 0.000001 // triangle sinner Force lowest LOD on everything (default -1). Biggest LOD FPS gain
+//sc_screen_size_lod_scale_override 0.000001 // triangle sinner Force lowest LOD on everything (default -1). Biggest LOD FPS gain
 
 //comment these outs if you want the shop portrait/ hero select/ dialogue player/ will lose FPS if you decide to do this
 citadel_portrait_world_renderer_off 1 // Turn off shop portrait hero renderer (devonly, default false)
