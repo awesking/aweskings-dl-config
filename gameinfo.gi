@@ -869,16 +869,16 @@ cl_interp_parallel 1 // Run interpolation in parallel for entities with no child
 
 
 // TEXTURE STREAMING & QUALITY
-//r_texture_lod_scale 2 // Bias textures to lower mips — blurrier, less VRAM (cheat)
-//r_fallback_texture_lod_scale 8 // Fallback geo uses 8x lower mip (default 2) (cheat)
-//r_texture_stream_max_resolution 1 // Cap texture resolution at 512px (default unlimited)
-//r_texturefilteringquality 0 // Bilinear filtering (cheapest)
+r_texture_lod_scale 2 // Bias textures to lower mips — blurrier, less VRAM (cheat)
+r_fallback_texture_lod_scale 8 // Fallback geo uses 8x lower mip (default 2) (cheat)
+r_texture_stream_max_resolution 1 // Cap texture resolution at 512px (default unlimited)
+r_texturefilteringquality 0 // Bilinear filtering (cheapest)
 //r_texture_pool_size 800 // Halve texture pool (default 1600 MB)
 //r_max_texture_pool_size 800 // Match cap
-//r_citadel_fsr_enable_mip_bias 0 // Disable FSR mip bias (avoids sharper mip loading, default true)
+r_citadel_fsr_enable_mip_bias 0 // Disable FSR mip bias (avoids sharper mip loading, default true)
 // r_texture_eager_eviction 1 // Eagerly evict unused textures (lower VRAM). Uncomment to enable
-//v8_maximum_heap_size_mb 1024 //  
-//vulkan_batch_size 1000 // Larger Vulkan draw-call batches, fewer CPU submissions (devonly, default 500)
+v8_maximum_heap_size_mb 1024 //  
+vulkan_batch_size 1000 // Larger Vulkan draw-call batches, fewer CPU submissions (devonly, default 500)
 
 
 // ROPES & TRACERS
